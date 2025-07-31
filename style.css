@@ -1,5 +1,10 @@
 /* mobile screen */
 @media(max-width:760px){  
+    .now{
+      fontsize:10px;
+    }
+
+    
     body{
     background-color:black;
   }
