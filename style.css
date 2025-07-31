@@ -32,7 +32,7 @@
 
     }
     .jd{  
-        width:120%;
+        width:110%;
         display: flex;
     } 
     .me1{    
@@ -72,7 +72,7 @@
         display: none;
     }
     .dj{
-        width:120%;
+        width:110%;
         justify-content:space-between;
         align-items: center;
         display: flex;
