@@ -48,9 +48,10 @@
     .ment{
         width: 70%;
         background-color: blue;
-        height:50px;
+        height:100vh;
         margin: auto;
         color:white;
+        zindex:22;
         display: flex;
         align-items: center;
         justify-content: center;
