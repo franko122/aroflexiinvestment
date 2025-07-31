@@ -39,7 +39,7 @@
         border-radius: 100px;
     }
     .onedivider{
-        width: 100%;
+        width: 115%;
         height: 150px;
         display: flex;
     }
@@ -57,7 +57,7 @@
         margin: 0%;
         padding: 10px;
         text-align: center;
-        color:rgb(0, 217, 0);
+        color:blue;
         font-size: 15px;  
     }
     .now{
