@@ -1,5 +1,9 @@
 /* mobile screen */
 @media(max-width:760px){  
+    .wi{
+        width:90%;
+        position:fixed;
+    }
     .now{
       font-size:10px;
     }
