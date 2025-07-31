@@ -1,0 +1,83 @@
+/* mobile screen */
+@media(max-width:760px){  
+    body{
+    background-color:black;
+  }
+    .kcx{
+        color:white;
+        font-size: 11px;
+    }
+    .me1{
+        width: 60%;
+        height: 400px; 
+        background-image: url('./img/b1.jpg');
+        background-size: 100% 100%;
+
+    }
+    
+    .me2{
+        width: 40%;
+        height: 410px; 
+
+    }
+    .jd{  
+        display: flex;
+    } 
+    .me1{    
+        width: 60%;
+        height: 400px;  
+        background-color: red;  
+    }
+    .come{
+        text-align: center;
+        color: blue;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 50px;
+    }
+    .ment{
+        width: 70%;
+        background-color: blue;
+        height:50px;
+        margin: auto;
+        color:white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10px;
+    }
+    .top{
+        width:0%;
+        height: 100vh;
+        overflow: hidden;
+        background-color: black;
+        transition: 1s;
+        position: fixed;
+    }
+    .qw{
+        width: 10%;
+    }
+    .qws{
+        width: 10%;
+        display: none;
+    }
+    .dj{
+        width: 100%;
+        justify-content:space-between;
+        align-items: center;
+        display: flex;
+    }
+    .fd{
+        width:95%; 
+        padding: 3px;
+        margin: auto;
+        color: white;
+        text-align: center;
+        background-color:rgb(19, 19, 19) ;
+    }
+    .m1{
+        width: 100%;
+        height: 199px;
+        background-image: url('./img/b1.jpg');
+        background-size: 100%100%;
+    }
+   }
