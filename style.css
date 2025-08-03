@@ -17,6 +17,26 @@
         align-items: center;
         background-color:blue;
     }
+    .upu{
+        font-size:65px;
+        color:white;
+    }
+    .now{
+        width:100%; 
+        padding:16px;
+        outline:none;
+        border:none;
+        color:purple;
+        outline:none;
+        border-radius:10px;
+    }
+    .hold{
+        width:95%;
+        background-color: purple;
+        padding:5px;
+        margin: auto;
+        border-radius:10px;
+    }
     .abua{
         width: 1%;
         height: inherit;
