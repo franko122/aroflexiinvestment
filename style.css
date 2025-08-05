@@ -1,5 +1,11 @@
 /* mobile screen */
 @media(max-width:760px){  
+    .planner {
+        width:115%;
+        height:300px;
+        background-color:gray;
+        margin:auto; 
+    }
     .sub{
         background-color: white;
         color: white;
