@@ -1,8 +1,8 @@
 /* mobile screen */
 @media(max-width:760px){  
-    .planner {
+    .planner{
         width:115%;
-        height:300px;
+        height:450px;
         background-color:gray;
         margin:auto; 
     }
