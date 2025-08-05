@@ -6,6 +6,13 @@
         background-color:gray;
         margin:auto; 
     }
+    plan.{
+        width:110%; 
+        height:80px ;
+        background-color:blue;
+        color:white;
+        text-align:center;
+     }
     .sub{
         background-color: white;
         color: white;
